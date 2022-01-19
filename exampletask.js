@@ -2,8 +2,8 @@
 // console.log(typeof enterTheMonth);
 // console.log(enterTheMonth);
 
-let anyMonth = prompt("Enter the month!");
-
+let anyMonth = prompt("Enter the Month!");
+// console.log(typeof anyMonth);
 if (anyMonth == 1) {
   console.log("January");
 } else if (anyMonth == 2) {
